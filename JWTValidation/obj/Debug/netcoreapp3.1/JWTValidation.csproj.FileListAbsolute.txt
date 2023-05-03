@@ -1,0 +1,10 @@
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\bin\Debug\netcoreapp3.1\JWTValidation.deps.json
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\bin\Debug\netcoreapp3.1\JWTValidation.dll
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\bin\Debug\netcoreapp3.1\JWTValidation.pdb
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.AssemblyInfoInputs.cache
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.AssemblyInfo.cs
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.csproj.CoreCompileInputs.cache
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.dll
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.pdb
+C:\Users\GJakubek\source\repos\Ejercicio\JWTValidation\obj\Debug\netcoreapp3.1\JWTValidation.csproj.AssemblyReference.cache
